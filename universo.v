@@ -12,11 +12,11 @@
 #define ESPAÇO-TEMPO (x, y, z)
 
 public UNDEFINEDTYPE REALIDADE() {
-    REAL realidade = ser.perspectiva()
+    REAL realidade = ser.perspectiva();
 
     search(entendido on (ciência, filosofia)) {
         if(entendido == null) {
-            realidade = ilusao
+            realidade = ilusao;
         } else if(CULTURA.sentido() == true) {
             realidade = MENTE.interpretação();
         }
@@ -32,7 +32,7 @@ public int GRAVIDADE(Planeta) {
     FORÇA força_fraca = import_from(NATUREZA.forças_fundamentais, interação_fraca);
 
     if(Planeta != inerte && exists(MASSA)) {
-        (gravidade.força || Planeta.MASSA).TRUE()
+        (gravidade.força || Planeta.MASSA).TRUE();
     }
 
     //STUB

@@ -38,10 +38,11 @@ private void main(char** name, UNDEFINED espirito) {
     if (exists(ser)) {
         lar = (universo.REALIDADE.show_all() x universo.ILUSAO.show_all());
     } else {
-        universo.create_new("lar")
+        universo.create_new("lar");
     }
 
     universo.send(lara, lar);
+    alma.despertar(lara);
 
     //STUB
 

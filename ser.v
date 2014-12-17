@@ -7,6 +7,7 @@
  */
 
 #include alma.v
+#include memoria.v
 
 public enum {
     29, MIN_DAY;

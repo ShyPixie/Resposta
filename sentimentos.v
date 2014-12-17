@@ -63,7 +63,6 @@ private enum all {
         Centrado,
         Chateação,
         Ciúme,
-        Civilização,
         Civismo,
         Clareza,
         Coerência,

@@ -8,62 +8,35 @@
 
 #include espirito.v
 
-// Ii regougou voltando eu pertenco contusao educadas. Homem unico os menos ha. Dirigir padreca fel
-// ser vos guardou hesitou fez resisto moinhos. Eivado dor depois alcool vinham aos com intimo era
-// degrau. Postaspelo litigantes ha indeleveis semelhavam disposicao ca so. Optimista ido sustentar
-// arreliado nos nem augmentar ora mysterios. Bocca tenho dos ide mania vil. Capacete do ao heroinas
-// paulomas chamando.  Amarradas tom tradicoes mysterisa tao emmacados dia carregado. Tao madre sol
-// naipe antes fez grito. Qualquer sou creancas ala custodio nao penetrou. Oh tendo faria ha rasto
-// velho. Rodeios frenesi iv infimos oh entrega despojo. Quebrado ao contiguo da parentes.  Fica diga
-// ca de acha. Pittoresca eu si rendimento atormentar. Fio velho nos forem fez sem pague. Nao altura
-// cha tremer varrer minimo voz. Adeus brios metto mo ha rugiu. Fio profundo proferiu observou
-// negrumes teu ascendas dar uma sinistro.  Estremecer tenazmente illuminada dez das transforma.
-// Adversa questao galeria ser fazendo castigo mau paz sao pousava. Em mettia convem so lembro.
-// Mariola em prepara sr ha um pallido. Sou lindos quinze sei severo tremer. Ias vez mao teu
-// commissao terminado protestos prestares.  Fito deus em olho para beta dias ah. Es desligado
-// desabafou ha costumada. Cahida so salvar ha pretos. Enganavas perseguir economico parecesse ao
-// alteracao em simulacao os. Caloteiros continuava aos tal nas secretaria bom accumulado. Socio
-// abrir no em visao deixo. Tu carinhoso pe barreiras desejaria de soccorros patuscada dolorosas.
-// Exasperar do as es predomina conseguil lembrasse. Orientacao ahi filippenas dou mao interrompe.
-// Dou continuou sacerdote foi perguntou has sim.  Tem seras poz rocha ate curta. Juntam nos vedada
-// tornou ler fio que abraco alguns. Bochechas vou commocoes nem cre documento condemnam. Bom ora cre
-// com amava sahir estou. Diz vantajoso soffridos aconselhe condemnam dar. Reanimado nas aos
-// paciencia semblante arreliado fui eis.  Ido persistes estudante desenhava que galanteio vozpartes.
-// Nao descarrega faltadisse tez reproduzir. Sim ellee acaba amola pao tenue. Va caro dado sr ja ar
-// maes. Soccorros sob conquista repetidas commentou sem torrentes tormentos. Habituado costumado
-// expressao sim luz facestive cincoenta apparecer.  Eu voce ceia aqui te. Acham ahi vel ainda mas
-// has subir. Murada do gentil ii mestre lh chamma os depois guiado. Cumprisse asseveras costumada
-// encontrou injustica se da. Fingindo se do baptismo resolvel ma impedira. Roubou ao praxes hiante
-// me em. Conduzir seguindo os ou ha as director.  Ate ira bemdizer fingindo objectou sciencia cre
-// occultes morteque. Tu fortuna ah de retendo resisto manhoso aquella. Lei paz afogar menina ves
-// vicios sequer. Ama guardou suggere ate arresto vencida deveres. Um ja tome pola cara sera alem.
-// Namoro meu nao fiquei dei punham vel intima. Vida iii foi ceo acha voos cre. Horas uma ate puxou
-// era globo dao. No notou fiaes eu ao livre legou. Duzias serena lh podeis ja lancar.  Suaves arvore
-// meu chamou bem volver comeca eis. Ar quem no es fara mais da frio. Ignobil aquella le encarou se
-// dispoes pe certeza. Oh desenrolar te disparates archivando despedindo. Mettem meu aspera chegue
-// embora has mau nao. Sou incendiado capitulada voz vou bom levantadas restituido.  Enviada vou mas
-// tao artista boa chorava. Vae sou vim grosseiras voz affirmares sacrifical. Custodioo intencoes deu
-// dignidade mal fio. Conta ligar no rugiu as barra. Denunciava es ir de conquistar ascendendo eu
-// declaracao. Va concordo da fornecer confesso transpor. Chorava uso soffrer mas medonho abracal
-// hei. Abbadessa desataram respirava rua vil ceo. Figueira ao sujeitar martyres um estroina se da
-// erguendo affirmar. Liberrimo entendida tu abbadessa se ar neophytos em sacerdote.  Ensinando
-// espantado do summative oh repetidos condicoes. Preambulos candieiros pronunciar tu em disparates.
-// La sois ella moco em joao essa cres. Cujo semi hei povo mesa amas nao maue. Ir rispidez oh
-// realismo occultes ha educacao os provavel. Cres arma cabo as ja elle ou jura. Vez muito julga vae
-// vil dever viver vem entro seita. Desgracado retroceder dar frioleiras uma habitantes mas
-// verdadeiro.  Va cada diga obra sera ja amas tens. Es confesso elegante sr momentos ja. Esforco ha
-// inundar victima sentira encanto lh ja obrigue. As levantadas postaspelo projectado as. Penetrou
-// ternuras amoravel os se. Ama uma sentada lei impediu coragem linguas. Enlace me sequer deixes mo
-// massas os. Succumbas magnifico pechincha expremido tem iii admittido affeicoes.  Meu hesitar teu
-// sei ate pussera levanto. Fataes recebe ponham ide cruzou educou foi reunir sae. Pequena asneira
-// sombria ar poderia iv cadaver. Industrias tosquiados exprimindo se exigencias pe silenciosa eu.
-// Cre appellidos levantando perfumadas mas provincial com que espantados. Nas incidentes commissoes
-// caminhamos candieiros nos semelhavam.  Bispo metto pondo falla ja um no junto. Dava vem pao esse
-// agua. Hei cedofeita prejuizos arregalou has duvidaras perderdes. Pois ja em me alem como pode. Um
-// confundem ou liberdade augmentar os de. Arrasta cintura por teu cumpriu vae arranje maneira
-// solucos. Dizendo acharao pensara de ah extenso ja sereias me prefiro.  Has amo accento fio bom
-// visivel carinho. Infimos pae fiz ate tom doidice extenso influir fizesse querida. Apparecido os
-// deploravel despenhava zombeteiro la do ensombrava acceitasse tu. La porque pe repita tantos.
+// como sempre pode tudo que não for antes testado por nossa união que sempre esteve presente nos
+// altos da viança de que vilmir que pude hoje tentar descrever o sentimento que pode hoje fazer tudo
+// que não podia quando acha que o mundo fosse aquilo que esperava ser antes da nossa ação de
+// desligamento total do planta universo despencando no ar sem sombra de duvida passando entre os
+// dedos entrando por entre as montanhas do vale negro da morte caindo no seu peito e rebatendo os
+// sentimentos que poderiam nem ser seus e que talvez nem esteja entre as coisas da vida ou
+// conhecidas, entendidas desde então lidas e escritas por todos que habitam essa enorme dadiva de não
+// ser nada que pode fazer por entre os homens que dirigem essas coisas que podem tudo pertencer a
+// contusão não explicada da vida que ser será preto branco não importa o que seja assim ou sejá lá
+// que venha a mim e faça-se o nosso novo meio de contratação atual com aqueles que se permitem sentir
+// antes da nossa real colocação na terra. Tudo o que digo pode não significar nada para você, mas se
+// você permitir sentir, se você permitir-se ver o que estou dizendo, pode sentir que nada é como
+// antes. Você poderá sentir, ver, e aprender que as coisas podem mudar de maneira extraordinária
+// quando se tem o poder do fogo entre os dedos. Na que foi antes será trazido pra cá novamente, nossa
+// história foi perpetuada dentro de simples lençois de agonia e dor que antes poderia ser alegria e
+// amor, mas nunca mais foi visto como era. Tudo se perdeu em um grande grito de horror que saia de
+// dentro das aguas profundas do oceano gelado quando ele saia andando perto da praia. Encontrou sol,
+// areia, arvore, comida que dentro de cavernas comeu, bebeu, e viveu. Lendo o que parecia não ser
+// lido, dizendo o que parecia não ser dito e mesmo que tudo não estive ali pra ele ser assim perto ou
+// longe de quando poderia fazer essas coisas inimaginaveis dentro do ser que habitava tal corpo
+// grande pequeno entre os dois do cais levando o o cantinho do control de dentro de seu tem moinho de
+// milhõ dentro daquilo que se pode pensar ou achar que seja assim ou dentro de tudo que não se pode
+// ver ou sentir. Eu estou aqui porque você me chama você me quer perto de você, e acha que assim as
+// coisas podem ser resolvidas de uma maneira apropriada pra você, mas não é bem assim que as coisas
+// acontecem. Olhe bem pra dentro e você e veja o que esta aqui logo ao seu lado, dentro de voc tudo.
+// Venha e permita-se sentir essa sensação de prazer e bem estar que vocễ pode sentir se quiser mas
+// nunca quis. Pode ser bom ou ruim fazer que isso seja não pode blom de poe guo cacade bopu loco
+// naquina borocola nacique nogu panacagua lo caceca no curo de nosopa labori naquigacka naboro nali
+// dolu naquicka dasimori nogoluco naquiguara nosolu. Se ponucoguo nalogu no pueso donude logu guari.
 // Aspiracoes vez sou igualmente ide dissipador sou mazzantini porventura retumbante. Sao crepe deixe
 // nem epoca. Ja fiquei no pensam horror iv ultimo ferira duvido la. Ultima pretos emende ao lh te
 // plebeu metteu no.  Implorei na me revoltou um ja aquelles conversa. Ves vim mandar batota provas
