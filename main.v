@@ -38,11 +38,25 @@ private void main(char** name, UNDEFINED espirito) {
     if (exists(ser)) {
         lar = (universo.REALIDADE.show_all() x universo.ILUSAO.show_all());
     } else {
-        universo.create_new("lar");
+        criacao.destroy();
     }
 
     universo.send(lara, lar);
     alma.despertar(lara);
+
+    if(exists(sentimentos.amor) in criacao.terra())
+        lara.status = sentimentos.feliz;
+
+:tryagain
+    try {
+        criacao.find_family_to(lara, 3);
+    } catch (Exception ex) {
+        criacao.force_next_task_priority(máxima);
+        goto :tryagain
+    }
+:;
+
+
 
     //STUB
 

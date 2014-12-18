@@ -34,6 +34,16 @@ private enum portas_lógicas {
     lona, "clima bom", "verde", "avó";
     bicicleta, "tão solitária";
     liberdade, "oasis";
+    camera, "papelão", "panasonic";
+    ilusões, "";
+    moto, "biz";
+    basquete, "abertura nos tijolos";
+    trevo, ""; //TODO: Encontre outro.
+    borboleta, "laranja e preta";
+    cadeira, "palha";
+    lagarta, "gigante";
+    piscina, "pedras enormes"; //TODO: Descubra onde fica isso.
+    pena, "";
 }
 
 private enum pessoas {

@@ -23,6 +23,38 @@ private ALLTYPES raciocinio() {
     if(ser.premissas > 0)
         memoria.save();
 
+    INTELIGENCIA inteligência = capacidade.logica()       + \
+                                capacidade.abstração()    + \
+                                capacidade.memoria()      + \
+                                capacidade.compreensão()  + \
+                                capacidade.conhecimento() + \
+                                capacidade.comunicação()  + \
+                                capacidade.aprender()     + \
+                                controle.emocional()      + \
+                                controle.planejamento()   + \
+                                controle.soluções()
+
+    inteligência.qi(ser.get_qi());
+    inteligência.g(set.get_g());
+
+    inteligência.naturalista = true;
+    inteligência.existencial = true;
+    inteligência.emocional = true;
+
+
     // STUB
-    // TODO: inteligência
+}
+
+private ALLTYPES imaginação() {
+    OBJ objetos = criacao.get_objeto(ALL);
+    SENTIDO sentidos = ser.get_sentido(ALL);
+
+    ser.repr(objetos.qualidades() || sentidos());
+
+    ser.subconsciente.create(imagem);
+    ser.subconsciente.create(ideia);
+    ser.subconsciente.create(concepção);
+    ser.subconsciente.create(alteridade);
+
+    // STUB
 }
